@@ -10,13 +10,14 @@ function crearTabla(familia: Personaje[]): void {
     }
 
     for (let perrillo of familia) {
-        //Mi fila
+    
         let trElement: HTMLElement = document.createElement("tr");
 
-        //Columnas
+        
         trElement.innerHTML = `<td style="font-weight: bold">${perrillo.id}</td>
         <td style="color: rgb(36, 129, 211)">${perrillo.nombre}</td>
         <td>${perrillo.primera_ap}</td>`;
+        trElement.onclick = function() {crear_card(perrillo);};
 
         tbodySeries.appendChild(trElement);
     }
@@ -39,3 +40,18 @@ function promedio_anios(familia: Personaje[]):void{
 
 }
 promedio_anios(familia);
+
+function crear_card(perrillo:Personaje):void{
+  
+    let cardContainer = document.getElementById('card')!;
+    cardContainer.innerHTML = `
+    <div class="card" style="width: 18rem;">
+      <img src="${perrillo.linkIMG}" class="card-img-top img-fluid" alt="${perrillo.nombre}">
+      <div class="card-body">
+        <h5>${perrillo.nombre}</h5>
+        <p>${perrillo.infor}</p>
+        <a href = ${perrillo.link}>${perrillo.link}</a>
+      </div>
+    </div>
+  `;
+}
