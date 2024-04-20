@@ -15,7 +15,7 @@ export const familia: Personaje[]=[
         "Andy",
         "Febrero 1994",
         1994,
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FSchulzMuseum%2Fstatus%2F1625673180382732288&psig=AOvVaw3vmzea8SY1bebS8CC0tcUb&ust=1713721816863000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDVzbOt0YUDFQAAAAAdAAAAABAI",
+        "https://pbs.twimg.com/media/FLk7hteWUAQyaJ2.jpg",
         "Andy is a minor animal character in the Peanuts comic strip by Charles M. Schulz. He is one of Snoopy's siblings. Notably, he is one of two Peanuts characters who first appeared on television before appearing in the strip",
         "https://peanuts.fandom.com/wiki/Andy?so=search"
     ),
@@ -24,7 +24,7 @@ export const familia: Personaje[]=[
         "Marbles",
         "Septiembre 1982",
         1982,
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fmarbles--365495325982591698%2F&psig=AOvVaw1QpP8QPmpXsTV663gaO8Rq&ust=1713721858463000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC468it0YUDFQAAAAAdAAAAABAo",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8Q1tlcbyeDnEP8yrhk_56UJb_wHL3anl1kPRO3860A&s",
         "Marbles is a minor animal character in Charles M. Schulz's comic strip, Peanuts. He is one of Snoopy's brothers and is reportedly the smartest one in the family. Marbles' main feature is his floppy, spotted ears. In his first appearance in the strip, he is also depicted as wearing shoes.",
         "https://peanuts.fandom.com/wiki/Marbles?so=search"
     ),
@@ -33,7 +33,7 @@ export const familia: Personaje[]=[
         "Olaf",
         "Enero 1989",
         1989,
-        "https://static.wikia.nocookie.net/peanuts/images/4/41/19890124.gif/revision/latest?cb=20160427221243",
+        "https://m.media-amazon.com/images/I/71VyZq2-+9L._AC_UF894,1000_QL80_.jpg",
         "Olaf (originally called Ugly Olaf), is a minor animal character in the comic strip Peanuts by Charles M. Schulz. He is a brother of Snoopy. Olaf is much fatter than his siblings, a factor which may have contributed to him getting his nickname Ugly Olaf. However, beneath his fat exterior lies a sharp wit.",
         "https://peanuts.fandom.com/wiki/Olaf?so=search"
     ),
@@ -42,7 +42,7 @@ export const familia: Personaje[]=[
         "Belle",
         "Junio 1976",
         1976,
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmail.pnbroakerala.com%2F%3Fm%3Dcharles-schulz-museum-snoopy-s-sister-belle-first-appeared-qq-LbreEOsN&psig=AOvVaw2fS-Kai6zhbxf7mP-q0fUD&ust=1713722049185000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjJv6Ku0YUDFQAAAAAdAAAAABAa",
+        "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/80f832f2-ee67-4461-9e52-699f0fa5a1a8/db3g2ng-d350bda2-083e-4434-af38-33b5876179b6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgwZjgzMmYyLWVlNjctNDQ2MS05ZTUyLTY5OWYwZmE1YTFhOFwvZGIzZzJuZy1kMzUwYmRhMi0wODNlLTQ0MzQtYWYzOC0zM2I1ODc2MTc5YjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2eCGMaD-4nbPbFV5f5iBrfcb_PNqvExMr0IaWLzxHkw",
         "Belle is a minor animal character in the comic strip Peanuts by Charles M. Schulz. She is Snoopy's sister. She first appeared in Peanuts on June 28, 1976, although she was referred to for the first time a few days earlier on June 22, 1976.",
         "https://peanuts.fandom.com/wiki/Belle?so=search"
     ),
@@ -51,7 +51,7 @@ export const familia: Personaje[]=[
         "Papa",
         "Junio 1989",
         1989,
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F543246773794624864%2F&psig=AOvVaw0iX6hCnQr_2WwfDx4DMDrB&ust=1713722152835000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj29Nau0YUDFQAAAAAdAAAAABAE",
+        "https://i.pinimg.com/236x/b3/fd/a8/b3fda8c265df25aab1b04ccd0e05da76.jpg",
         "Snoopy's father is seen in the strip from Sunday June 18, 1989 , Father's Day of that year. He receives a Father's Day card with eight paw prints on it, which he says is signed by all eight of his offsprings ",
         "https://peanuts.fandom.com/wiki/Snoopy%27s_parents#:~:text=Trivia,is%20given%20the%20name%20Baxter."
     ),
