@@ -1,0 +1,45 @@
+body{
+    background-color: lightyellow;
+}
+h1{
+    color: darkolivegreen;
+    text-align: center;
+}
+h2{
+    color:darkslategray;
+}
+
+.responsive{
+  max-width: 30%;
+  height: 30%;
+}
+p.NOnormalito{
+    color: crimson;
+    font: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
+p{
+    color: black;
+}
+
+.texto{
+    border-right: 50%;
+    border-left: 10%;
+}
+
+.encuesta{
+    border-left: 50%;
+    border-right: 10%;
+}
+.columnas {
+    min-width: 300px; 
+    white-space: nowrap; 
+  }
+
+  .table {
+    width: auto; 
+    max-width: 80%; 
+    margin-left: 80px;
+    border-top: 1px solid #dee2e6;
+}
